@@ -50,7 +50,7 @@ Key capabilities include:
 
 ## Project Structure
 <pre>
-Credit Card Fraud Detection/
+Credit_Card_Fraud_Detection/
 │
 ├── data/
 │ └── credit_card_fraud_dataset.xlsx
